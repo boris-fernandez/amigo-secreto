@@ -45,7 +45,4 @@ Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un n
 3. Una vez agregados todos los nombres, presiona "Sortear Amigo".
 4. El nombre del amigo secreto seleccionado se mostrará en pantalla.
 
-## Autor
-[Bionda Principe.Q] 
-
 
